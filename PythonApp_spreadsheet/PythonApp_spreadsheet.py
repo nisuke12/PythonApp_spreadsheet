@@ -22,6 +22,7 @@ if len(arguments) < 4:
     print("引数が不足しています")
     sys.exit(1)
 
+# 
 # 引数の値を取得
 
 # CSV出力パス
